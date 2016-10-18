@@ -1,0 +1,5 @@
+@echo off
+md "_RELEASE\v 1.0.0.0\bat" "_RELEASE\v 1.0.0.0\Registry" "_RELEASE\v 1.0.0.0\Packed" "developmentonly\v 1.0.0.0\Registry"
+md "developmentonly\v 1.0.0.0\bat" "developmentonly\v 1.0.0.0\Packed" "Graphics Assets\.Rendered Final Assets v 1.0.0.0\"
+md "Graphics Assets\PHOTOSHOP PROJEKT" "References\Web References"
+exit
